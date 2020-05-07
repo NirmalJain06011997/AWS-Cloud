@@ -6,6 +6,7 @@
 2. Type the following commands to update the list of packages on your linux machine and then to install the gcc or g++ complier.
     - sudo apt-get update
     - sudo apt-get install g++
+    
    To check gcc version type any of these commands.
     - g++ --version or gcc –v
 
