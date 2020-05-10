@@ -8,7 +8,7 @@ Symmbols:
 ##### **Commands:**
 -	**cd <dir_name>**	Changes the current directory.
 -	**cd /**	Takes to the root directory.
--	**cd ~**	Takes to the home directory.
+-	**cd ~ **	Takes to the home directory.
 -	**cd ..**	Takes to the parent directory.
 -	**pwd**		Prints the working directory from the root directory.
 -	**ls**		Lists the files or folders in the specified directory.
