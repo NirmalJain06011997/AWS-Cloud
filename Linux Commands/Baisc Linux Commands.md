@@ -1,11 +1,11 @@
 # Linux Commands
-Symmbols:
+### **Symbols:**
 -	**#**	-	Represents root.
 -	**~**	-	Home directory of current user.
 -	**/**	-	Root directory.
 -	**vi**	-	It is a tool/program used in linux to create files.
 
-##### **Commands:**
+### **Commands:**
 -	**cd <dir_name>**	-	Changes the current directory.
 -	**cd /**	-	Takes to the root directory.
 -	**cd \~**	-	Takes to the home directory.
